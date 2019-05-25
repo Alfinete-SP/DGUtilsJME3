@@ -1,0 +1,11 @@
+
+.hg/
+
+build/
+
+dist/
+
+master-application.jnlp
+bulletjme.dll
+OpenAL64.dll
+lwjgl64.dll

@@ -5,10 +5,7 @@
         <group name="JME3 GIT REPO">
             <file>file:/D:/Dropbox/jMonkeyProjects/dgnUtilsJME3.1/test/dgnUtils/math/Vector3dTest.java</file>
         </group>
-        <group>
-            <file>file:/D:/Dropbox/jMonkeyProjects/dgnUtilsJME3.1/src/dgnUtils/math/Vector3L.java</file>
-            <file>file:/D:/Dropbox/jMonkeyProjects/dgnUtilsJME3.1/src/dgnUtils/CamDirAndPosRunner.java</file>
-        </group>
         <group name="JADIS 004"/>
+        <group/>
     </open-files>
 </project-private>
